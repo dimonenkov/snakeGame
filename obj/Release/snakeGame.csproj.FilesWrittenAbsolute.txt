@@ -1,0 +1,2 @@
+/home/dimo/Документи/Visual Studio 2015/Projects/snakeGame/snakeGame/obj/Release/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/dimo/Документи/Visual Studio 2015/Projects/snakeGame/snakeGame/obj/Release/snakeGame.exe

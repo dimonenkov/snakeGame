@@ -1,0 +1,10 @@
+/home/dimo/Документи/Visual Studio 2015/Projects/snakeGame/snakeGame/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/dimo/Документи/Visual Studio 2015/Projects/snakeGame/snakeGame/obj/Debug/snakeGame.exe
+/Users/Dimo/Documents/Visual Studio 2015/Projects/snakeGame/snakeGame/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/Dimo/Documents/Visual Studio 2015/Projects/snakeGame/snakeGame/bin/Debug/snakeGame.exe.config
+/Users/Dimo/Documents/Visual Studio 2015/Projects/snakeGame/snakeGame/bin/Debug/snakeGame.exe.mdb
+/Users/Dimo/Documents/Visual Studio 2015/Projects/snakeGame/snakeGame/bin/Debug/snakeGame.pdb
+/Users/Dimo/Documents/Visual Studio 2015/Projects/snakeGame/snakeGame/bin/Debug/snakeGame.exe
+/Users/Dimo/Documents/Visual Studio 2015/Projects/snakeGame/snakeGame/obj/Debug/snakeGame.exe
+/Users/Dimo/Documents/Visual Studio 2015/Projects/snakeGame/snakeGame/obj/Debug/snakeGame.exe.mdb
+/Users/Dimo/Documents/Visual Studio 2015/Projects/snakeGame/snakeGame/obj/Debug/snakeGame.pdb

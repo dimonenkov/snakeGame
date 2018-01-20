@@ -1,0 +1,6 @@
+/Users/Dimo/Documents/Visual Studio 2015/Projects/snakeGame/snakeGame/bin/Release/snakeGame.exe.config
+/Users/Dimo/Documents/Visual Studio 2015/Projects/snakeGame/snakeGame/bin/Release/snakeGame.exe
+/Users/Dimo/Documents/Visual Studio 2015/Projects/snakeGame/snakeGame/bin/Release/snakeGame.pdb
+/Users/Dimo/Documents/Visual Studio 2015/Projects/snakeGame/snakeGame/obj/Release/snakeGame.csproj.CoreCompileInputs.cache
+/Users/Dimo/Documents/Visual Studio 2015/Projects/snakeGame/snakeGame/obj/Release/snakeGame.exe
+/Users/Dimo/Documents/Visual Studio 2015/Projects/snakeGame/snakeGame/obj/Release/snakeGame.pdb
